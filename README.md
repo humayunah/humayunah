@@ -7,7 +7,7 @@
 💼 5+ years of experience as a **Full Stack Engineer**
 🤖 Specializing in **AI-powered applications, LLM integrations, and agentic workflows**
 ⚙️ Building **end-to-end systems** — from frontend UI to scalable backend APIs
-🧠 Experienced in **semantic search, NER, and intelligent automation**
+🧠 Experienced in **RAG systems, LLM orchestration, and intelligent automation**
 ☁️ Strong focus on **production-grade architecture and performance**
 🌍 Based in Pakistan, working with global clients
 
@@ -17,7 +17,7 @@
 `Python` `Node.js` `React` `Next.js` `FastAPI` `Django` `Express`
 
 **🧠 AI / ML**
-`LLMs` `Agentic AI` `spaCy` `Semantic Search` `NER`
+`LLMs` `RAG` `Vector Databases` `LangChain` `LlamaIndex` `Agentic AI`
 
 **🗄️ Databases**
 `PostgreSQL` `MongoDB` `Redis`
